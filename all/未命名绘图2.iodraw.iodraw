@@ -103,7 +103,7 @@
         <mxCell id="LorGMwf2UcZ8BvI0K262-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-1" vertex="1">
           <mxGeometry y="7" width="121.6" height="7" as="geometry" />
         </mxCell>
-        <mxCell id="LorGMwf2UcZ8BvI0K262-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#707070;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-21" vertex="1">
+        <mxCell id="LorGMwf2UcZ8BvI0K262-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-21" vertex="1">
           <mxGeometry width="7" height="7" as="geometry">
             <mxRectangle width="7" height="7" as="alternateBounds" />
           </mxGeometry>
@@ -113,7 +113,7 @@
             <mxRectangle width="7" height="7" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LorGMwf2UcZ8BvI0K262-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#808080;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-21" vertex="1">
+        <mxCell id="LorGMwf2UcZ8BvI0K262-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-21" vertex="1">
           <mxGeometry x="14" width="6" height="7" as="geometry">
             <mxRectangle width="6" height="7" as="alternateBounds" />
           </mxGeometry>
