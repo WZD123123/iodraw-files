@@ -1432,8 +1432,8 @@
             <mxRectangle width="13" height="13" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="snz4xg_OV3XduJFOR_3s-15" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="-1510" width="10" height="160" as="geometry" />
+        <mxCell id="snz4xg_OV3XduJFOR_3s-15" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="-1515" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
