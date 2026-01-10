@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="azrD6Sb3MOSooprVz9B1">
-    <mxGraphModel dx="123" dy="79" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="213" dy="136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
             <mxRectangle width="7" height="7" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LorGMwf2UcZ8BvI0K262-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#666666;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-2" vertex="1">
+        <mxCell id="LorGMwf2UcZ8BvI0K262-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LorGMwf2UcZ8BvI0K262-2" vertex="1">
           <mxGeometry x="54" width="7" height="7" as="geometry">
             <mxRectangle width="7" height="7" as="alternateBounds" />
           </mxGeometry>
@@ -1683,15 +1683,6 @@
         </mxCell>
         <mxCell id="LorGMwf2UcZ8BvI0K262-344" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="533" y="48" width="10" height="122" as="geometry" />
-        </mxCell>
-        <mxCell id="LorGMwf2UcZ8BvI0K262-355" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
-          <mxGeometry x="634" y="48" width="10" height="122" as="geometry" />
-        </mxCell>
-        <mxCell id="LorGMwf2UcZ8BvI0K262-357" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
-          <mxGeometry x="641" y="48" width="10" height="122" as="geometry" />
-        </mxCell>
-        <mxCell id="LorGMwf2UcZ8BvI0K262-358" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
-          <mxGeometry x="648" y="48" width="10" height="92" as="geometry" />
         </mxCell>
         <mxCell id="LorGMwf2UcZ8BvI0K262-359" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="654.6" y="48" width="10" height="122" as="geometry" />
