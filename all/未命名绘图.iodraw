@@ -151,6 +151,12 @@
             <mxPoint x="580" y="720.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="daqXjOh2Xz5Rkcqe1wma-48" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="daqXjOh2Xz5Rkcqe1wma-49" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
