@@ -889,7 +889,7 @@
           <mxGeometry x="700" y="413.94" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="s00Jqv6wKIwPJMJpaGT7-250" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="110.6" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="110.6" width="181" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
