@@ -295,7 +295,7 @@
             <mxRectangle width="20" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4sJCJgZbQCoU2yBuc0D-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-61">
+        <mxCell id="h4sJCJgZbQCoU2yBuc0D-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#6600CC;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fillStyle=dots;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-61">
           <mxGeometry x="20" width="20" height="40" as="geometry">
             <mxRectangle width="20" height="40" as="alternateBounds" />
           </mxGeometry>
