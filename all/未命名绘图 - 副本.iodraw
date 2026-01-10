@@ -420,7 +420,7 @@
             <mxRectangle width="16" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s00Jqv6wKIwPJMJpaGT7-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#A50040;overflow=hidden;fillColor=#FF0000;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-49">
+        <mxCell id="s00Jqv6wKIwPJMJpaGT7-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#A50040;overflow=hidden;fillColor=#009600;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-49">
           <mxGeometry x="32" width="16" height="32" as="geometry">
             <mxRectangle width="16" height="32" as="alternateBounds" />
           </mxGeometry>
@@ -472,6 +472,9 @@
               <mxPoint x="60" y="238" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s00Jqv6wKIwPJMJpaGT7-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
