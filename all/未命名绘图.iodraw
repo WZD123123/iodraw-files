@@ -60,10 +60,10 @@
           <mxGeometry x="583" y="385" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-29" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="538.5" y="106" width="190" height="190" as="geometry" />
+          <mxGeometry x="490" y="160" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="538.5" y="106" width="120" height="120" as="geometry" />
+          <mxGeometry x="490" y="160" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-32" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-50" width="138" height="190" as="geometry" />
@@ -84,9 +84,6 @@
               <mxPoint x="140" y="601" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="daqXjOh2Xz5Rkcqe1wma-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="648.5" y="790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-48" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="194" y="191" width="20" height="20" as="geometry" />
