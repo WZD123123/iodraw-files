@@ -481,7 +481,7 @@
         <mxCell id="s00Jqv6wKIwPJMJpaGT7-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-80">
           <mxGeometry width="40" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="s00Jqv6wKIwPJMJpaGT7-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-81">
+        <mxCell id="s00Jqv6wKIwPJMJpaGT7-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffcd28;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#ffa500;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-81">
           <mxGeometry width="13" height="13" as="geometry">
             <mxRectangle width="13" height="13" as="alternateBounds" />
           </mxGeometry>
@@ -499,7 +499,7 @@
         <mxCell id="s00Jqv6wKIwPJMJpaGT7-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-80">
           <mxGeometry y="13" width="40" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="s00Jqv6wKIwPJMJpaGT7-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-85">
+        <mxCell id="s00Jqv6wKIwPJMJpaGT7-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;gradientColor=#e6b8b7;" vertex="1" parent="s00Jqv6wKIwPJMJpaGT7-85">
           <mxGeometry width="13" height="14" as="geometry">
             <mxRectangle width="13" height="14" as="alternateBounds" />
           </mxGeometry>
