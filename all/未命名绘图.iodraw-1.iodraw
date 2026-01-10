@@ -1462,8 +1462,8 @@
         <mxCell id="snz4xg_OV3XduJFOR_3s-26" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="1918" y="-1530" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="snz4xg_OV3XduJFOR_3s-27" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1915" y="-1470" width="10" height="160" as="geometry" />
+        <mxCell id="snz4xg_OV3XduJFOR_3s-27" value="" style="line;strokeWidth=1;direction=south;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1915" y="-1471" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
