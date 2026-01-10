@@ -175,12 +175,12 @@
         <mxCell id="h4sJCJgZbQCoU2yBuc0D-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-20">
           <mxGeometry width="60" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="h4sJCJgZbQCoU2yBuc0D-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-21">
+        <mxCell id="h4sJCJgZbQCoU2yBuc0D-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#A50040;overflow=hidden;fillColor=#d80073;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-21">
           <mxGeometry width="20" height="23" as="geometry">
             <mxRectangle width="20" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4sJCJgZbQCoU2yBuc0D-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-21">
+        <mxCell id="h4sJCJgZbQCoU2yBuc0D-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#BD7000;overflow=hidden;fillColor=#f0a30a;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#000000;" vertex="1" parent="h4sJCJgZbQCoU2yBuc0D-21">
           <mxGeometry x="20" width="20" height="23" as="geometry">
             <mxRectangle width="20" height="23" as="alternateBounds" />
           </mxGeometry>
