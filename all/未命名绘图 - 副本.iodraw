@@ -476,8 +476,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s00Jqv6wKIwPJMJpaGT7-74" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="s00Jqv6wKIwPJMJpaGT7-74" value="L" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="493.01" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s00Jqv6wKIwPJMJpaGT7-75" value="L" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="503.01" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
