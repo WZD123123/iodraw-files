@@ -8,16 +8,16 @@
           <mxGeometry y="290" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-2" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="100" height="100" as="geometry" />
+          <mxGeometry x="160" y="129" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-3" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="160" y="460" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="531.25" y="110" width="120" height="120" as="geometry" />
+          <mxGeometry x="531.25" y="109" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-7" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="30" height="40" as="geometry" />
@@ -39,8 +39,8 @@
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="280" as="sourcePoint" />
-            <mxPoint x="300" y="280" as="targetPoint" />
+            <mxPoint x="220" y="279" as="sourcePoint" />
+            <mxPoint x="300" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="daqXjOh2Xz5Rkcqe1wma-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
