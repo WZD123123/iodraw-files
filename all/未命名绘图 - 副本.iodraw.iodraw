@@ -833,6 +833,9 @@
         <mxCell id="ECitaYJ2026VCjfL4x0a-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Extended Dictionary Kernel Matrix&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="491.79999999999995" y="367.6" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ECitaYJ2026VCjfL4x0a-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
